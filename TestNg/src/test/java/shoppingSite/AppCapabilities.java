@@ -12,7 +12,7 @@ import java.net.ServerSocket;
 import java.net.URL;
 import java.util.Properties;
 //Store App testing
-public class main {
+public class AppCapabilities {
     public static AppiumDriverLocalService service;
     private static ServerSocket serverSocket;
 
@@ -51,7 +51,7 @@ public class main {
         cap.setCapability(MobileCapabilityType.DEVICE_NAME,device); //uses global.prop
 
 
-        cap.setCapability(MobileCapabilityType.APP,"F:\\study\\appiumlearning\\androidapp\\General-Store.apk");
+            cap.setCapability(MobileCapabilityType.APP,"F:\\study\\appiumlearning\\androidapp\\General-Store.apk");
         cap.setCapability(MobileCapabilityType.AUTOMATION_NAME,"UiAutomator2");
         cap.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT,14);
         AndroidDriver<AndroidElement> driver=new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),cap);

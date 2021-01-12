@@ -3,13 +3,13 @@
 
 <suite name="All Test Suite">
     <listeners>
+        <listener class-name="reports.ExtentReporterNG"/>
         <listener class-name="org.testng.reporters.EmailableReporter"/>
         <listener class-name="org.testng.reporters.FailedReporter"/>
     </listeners>
-    <test verbose="2" preserve-order="true" name="2nd Test Case">
+    <test verbose="2" preserve-order="true" name="First Test Case">
         <classes>
-            <class name="shoppingSite.PriceValidationTest"/>
-            <class name="shoppingSite.AppCapabilities"/>
+            <class name="flipkartTesting.SignInPageTest"/>
         </classes>
     </test>
 </suite>

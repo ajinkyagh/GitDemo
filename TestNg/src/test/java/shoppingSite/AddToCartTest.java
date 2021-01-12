@@ -3,8 +3,6 @@ package shoppingSite;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import org.junit.Assert;
-import org.testng.annotations.BeforeTest;
-import pageobjectstoreapp.CartPage;
 import pageobjectstoreapp.LoginPage;
 import org.testng.annotations.Test;
 import pageobjectstoreapp.ProductsPage;
@@ -13,7 +11,7 @@ import pageobjectstoreapp.ProductsPage;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
-public class TestCase_3 extends main {
+public class AddToCartTest extends AppCapabilities {
 
     AndroidDriver<AndroidElement> setup() throws IOException {
         service = startServer(); //start the appium server

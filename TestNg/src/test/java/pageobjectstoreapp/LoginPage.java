@@ -33,7 +33,7 @@ public class LoginPage {
     public WebElement selcountry;
 
     @AndroidFindBy(id="com.androidsample.generalstore:id/btnLetsShop" )
-    public WebElement button;
+    public WebElement buttonLetsShop;
 
     public void loginUser() throws InterruptedException {
 //      Filling form details test
@@ -58,13 +58,17 @@ public class LoginPage {
         utilities.scrollToText("Barbados");
 
         // driver.findElementByXPath("//*[@text='Barbados']").click();
-        //f.selcountry.click();
-        utilities.clickByXpath("//*[@text='Barbados']");
+        selcountry.click();
+        //utilities.clickByXpath("//*[@text='Barbados']");
 
         //Button Click Lets Shop
         // driver.findElementById("com.androidsample.generalstore:id/btnLetsShop").click();
-        button.click();
+       buttonLetsShop.click();
         Thread.sleep(5000);
+    }
+
+    public void letsShopClick(){
+        buttonLetsShop.click();
     }
 }
 

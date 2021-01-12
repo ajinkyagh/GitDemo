@@ -8,20 +8,15 @@ import pageobjectstoreapp.LoginPage;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
-public class TestCase_1 extends main{
+public class LoginTest extends AppCapabilities {
     @Test
-    public void validation() throws IOException, InterruptedException {
+    public void doLoginTest() throws IOException, InterruptedException {
         service=startServer(); //start the appium server
         AndroidDriver<AndroidElement> driver =Capabilities();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        LoginPage f=new LoginPage(driver); //initializing page object model
-        f.loginUser();
+        LoginPage loginPage = new LoginPage(driver); //initializing page object model
+        loginPage.loginUser();
         service.stop();//stops appium server
-
-
     }
-
-
-
 }

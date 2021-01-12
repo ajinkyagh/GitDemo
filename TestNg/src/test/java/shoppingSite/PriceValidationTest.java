@@ -2,6 +2,7 @@ package shoppingSite;
 
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageobjectstoreapp.CartPage;
 import pageobjectstoreapp.LoginPage;
@@ -10,7 +11,7 @@ import pageobjectstoreapp.ProductsPage;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
-public class TestCase_4 extends main{
+public class PriceValidationTest extends AppCapabilities {
     @Test // Ussing testng
     public void totalValidation() throws IOException, InterruptedException {
         service=startServer();
@@ -18,12 +19,19 @@ public class TestCase_4 extends main{
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         String text;
 
-        CartPage pg = new CartPage(driver);
-        LoginPage f = new LoginPage(driver);
-        ProductsPage p = new ProductsPage(driver);
+//        Given
+        LoginPage loginPage= new LoginPage(driver);
+        loginPage.loginUser();
 
-        f.loginUser();
-        pg.ProductValidation();
+//        When
+        CartPage cartPage = new CartPage(driver);
+        double total=cartPage.ProductValidation();
+
+//        Then
+
+        Assert.assertEquals(280.97,total);
+
+
         service.stop();
 
 
