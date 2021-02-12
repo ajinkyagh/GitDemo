@@ -1,5 +1,3 @@
-package test;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
@@ -7,17 +5,17 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-public class Automation_Testing {
+class Automation_Testing {
 	public static void main(String[] args) throws InterruptedException {
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\jars\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "F:\\study\\appiumlearning\\jars\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		Actions builder = new Actions(driver);
 		JavascriptExecutor js = ((JavascriptExecutor) driver);
 		int j,k = 0;
 		
 		//Test Case 1-Title Test
-		driver.get("file:///C:/Users/ajink/OneDrive/Desktop/Lesson%201/store.html");
+		driver.get("F:\\study\\BE\\LP2\\Mini Project\\Automation\\Code\\TestingWebsite\\store.html");
 		driver.manage().window().maximize();	
 		
 		
