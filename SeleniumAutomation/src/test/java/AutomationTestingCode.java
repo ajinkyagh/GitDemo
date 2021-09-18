@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 class Automation_Testing {
 	public static void main(String[] args) throws InterruptedException {
 		
-		System.setProperty("webdriver.chrome.driver", "F:\\study\\appiumlearning\\jars\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\ajink\\Downloads\\chromedriver_win32 (1)\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		Actions builder = new Actions(driver);
 		JavascriptExecutor js = ((JavascriptExecutor) driver);
@@ -22,11 +22,11 @@ class Automation_Testing {
 		String exptitle="Shop | Store";
 		String acttitle=driver.getTitle();
 		if(exptitle.equals(acttitle)) {
-			System.out.println("Test Case 1 Passed");
+			System.out.println("Test Case 1 Passed(Title Test)");
 		}
 		else
 		{
-			System.out.println("Test Case 1 Failed ");
+			System.out.println("Test Case 1 Failed(Title Case) ");
 		}
 		
 		Thread.sleep(3000);
@@ -42,7 +42,7 @@ class Automation_Testing {
 				driver.findElement(By.id("btn")).click();
 				Thread.sleep(2000);
 				js.executeScript("scroll(0, -250);");
-				System.out.println("Test Case " +j+ " Passed ");
+				System.out.println("Test Case " +j+ " Passed(Add to Cart Test) ");
 			}
 			else {
 				driver.findElement(By.id("btn"+i)).click();
@@ -52,7 +52,7 @@ class Automation_Testing {
 				driver.findElement(By.id("btn")).click();
 				Thread.sleep(2000);
 				js.executeScript("scroll(0, -250);");
-				System.out.println("Test Case " +j+ " Passed");
+				System.out.println("Test Case " +j+ " Passed(Add to cart test)");
 				k=j;
 			}	
 		}
@@ -68,7 +68,7 @@ class Automation_Testing {
 				Thread.sleep(2000);
 				js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
 				Thread.sleep(2000);
-				System.out.println("Test Case " +k+ " Passed ");
+				System.out.println("Test Case " +k+ " Passed(Total Test) ");
 			
 		}
 		Thread.sleep(3000);
@@ -80,7 +80,7 @@ class Automation_Testing {
 				js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
 				driver.findElement(By.id("btn")).click();
 				Thread.sleep(2000);
-				System.out.println("Test Case " +k+ " Passed ");
+				System.out.println("Test Case " +k+ " Passed(Remove Product Test) ");
 			
 		}
 		Thread.sleep(3000);
@@ -97,7 +97,7 @@ class Automation_Testing {
 		driver.findElement(By.id("btn1")).click();
 		Thread.sleep(2000);
 		js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
-		System.out.println("Test Case " +k+ " Failed ");
+		System.out.println("Test Case " +k+ " Failed (Adding one item multiple times)");
 		driver.findElement(By.id("btn")).click();
 		Thread.sleep(3000);
 		
@@ -112,7 +112,7 @@ class Automation_Testing {
 			driver.findElement(By.id("quantity")).sendKeys("2");
 			driver.findElement(By.id("quantity")).sendKeys(Keys.RETURN);
 			Thread.sleep(2000);
-			System.out.println("Test Case " +k+ " Passed ");
+			System.out.println("Test Case " +k+ " Passed (Change Quantity Test)");
 			driver.findElement(By.id("btn")).click();
 			
 			k++;
@@ -122,7 +122,7 @@ class Automation_Testing {
 			driver.findElement(By.id("quantity")).sendKeys("2.7");
 			driver.findElement(By.id("quantity")).sendKeys(Keys.RETURN);
 			Thread.sleep(2000);
-			System.out.println("Test Case " +k+ " Failed ");
+			System.out.println("Test Case " +k+ " Failed(Change Quantity Test) ");
 			driver.findElement(By.id("btn")).click();
 			
 			k++;
@@ -132,7 +132,7 @@ class Automation_Testing {
 			driver.findElement(By.id("quantity")).sendKeys("-1");
 			driver.findElement(By.id("quantity")).sendKeys(Keys.RETURN);
 			Thread.sleep(2000);
-			System.out.println("Test Case " +k+ " Failed ");
+			System.out.println("Test Case " +k+ " Failed(Change Quantity Test) ");
 			driver.findElement(By.id("btn")).click();
 			Thread.sleep(3000);
 		
@@ -155,11 +155,11 @@ class Automation_Testing {
 		acttitle=driver.getTitle();
 		if(exptitle.equals(acttitle))
 		{
-			System.out.println("Test case "+k+" passed");
+			System.out.println("Test case "+k+" passed(Purchase item test)");
 		}
 		else
 		{
-			System.out.println("Test case "+k+" failed");
+			System.out.println("Test case "+k+" failed(Purchase item test)");
 		}
 		Thread.sleep(3000);
 		
