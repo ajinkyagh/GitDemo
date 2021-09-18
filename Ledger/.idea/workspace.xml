@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46ff3627-91fd-48b8-992c-6c592bcf976a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/FlipkartTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/Reports/htmlreport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/flipkart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/PageObjModel/AccountDetailsFetchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/PageObjModel/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/PageObjModel/FlipkartHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/PageObjModel/FlipkartUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/PageObjModel/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/PageObjModel/StringCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/flipkartTesting/AddToCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/flipkartTesting/FlipkartCapabilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/flipkartTesting/SignInPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/pageobjectstoreapp/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/pageobjectstoreapp/Formpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/pageobjectstoreapp/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/pageobjectstoreapp/ProductsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/pageobjectstoreapp/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/main/java/reports/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/PageObjModel/AccountDetailsFetchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/PageObjModel/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/PageObjModel/FlipkartHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/PageObjModel/FlipkartUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/PageObjModel/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/PageObjModel/StringCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/flipkartTesting/AddToCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/flipkartTesting/FlipkartCapabilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/src/test/flipkartTesting/SignInPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/PageObjModel/AccountDetailsFetchable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/PageObjModel/AddToCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/PageObjModel/FlipkartHomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/PageObjModel/FlipkartUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/PageObjModel/SignInPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/PageObjModel/StringCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/flipkartTesting/AddToCartTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/flipkartTesting/FlipkartCapabilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/flipkartTesting/SignInPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/pageobjectstoreapp/CartPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/pageobjectstoreapp/Formpage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/pageobjectstoreapp/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/pageobjectstoreapp/ProductsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/pageobjectstoreapp/Utilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/target/classes/reports/ExtentReporterNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlipkartTesting/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/ICS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/out/production/ICS/AEStest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/out/production/ICS/DH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/out/production/ICS/RSA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/out/production/ICS/SDES.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/out/production/ICS/SimplifiedDES.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/src/AEStest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/src/DH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/src/RSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICS/src/SDES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/Junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/src/main/java/Assert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/src/main/java/DemoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/src/main/java/JunitClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/target/classes/Assert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/target/classes/DemoClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/target/classes/JunitClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Ledger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filename.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektrust/learning/BorrowerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektrust/learning/ConsoleWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektrust/learning/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektrust/learning/Geektrust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektrust/learning/OperationSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektrust/learning/OperationsPerformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektrust/learning/PaymentDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ml/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ml/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ml/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ml/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ml/Ml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ml/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/out/production/OOP/Earth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/out/production/OOP/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/libraries/org_junit_jupiter_junit_jupiter_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/Parking_System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/filename.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/filename2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/InputWithConsole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/InputWithTextFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/OutputToConsole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/OutputWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/Parking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/ParkingLot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/out/production/Parking_System/com/company/ParkingLotFileWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/InputWithConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/InputWithTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/OutputToConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/OutputWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/Parking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parking_System/src/com/company/ParkingLotFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssured" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedger/app/src/main/java/Borrower_Details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedger/app/src/main/java/CarryOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedger/app/src/main/java/Geektrust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedger/app/src/main/java/InputFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedger/app/src/main/java/OutputToConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedger/app/src/main/java/Payment_Details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedger/app/src/main/java/SelectOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/target/classes/Borrower_Details.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/target/classes/CarryOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/target/classes/Payment_Details.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheLedgerCo/target/classes/SelectOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/Ics/SDES.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/Ics/SimplifiedDES.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/AddNos$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/AddNos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/ArrayofArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/BaseballGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/BinaryToInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/BracketPair2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/BracketPairs1807.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/Cashier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/CheckASentence1832.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/Code10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/Code12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/Code14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/CustomStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/Duplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/ExtraCandies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/FinalPrice1475.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/FoodOrders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/GoalParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/GroupPeople.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/LetterPermutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/MaxLength718.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/MiddleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/Morse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/OddLengthArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/ProductArray1822.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/RangeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/ReplaceElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/ReplacePattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/ReverseLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/RobotReturn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/Rough.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/SeatManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/SelfDividingNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/SortedVowel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/String678.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/StringHalves.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/SubrectangleQueries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/SumUnique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/SwappingNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/TargetArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/TruncateSentence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/ValidParentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/out/production/coding/sample/flipAndInvert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/Ics/SDES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/AddNos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/ArrayofArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/BaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/BinaryToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/BracketPair2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/BracketPairs1807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/CheckASentence1832.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/Code10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/Code12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/Code14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/ExtraCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/FinalPrice1475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/FoodOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/GoalParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/GroupPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/LetterPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/MaxLength718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/MiddleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/Morse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/OddLengthArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/ProductArray1822.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/RangeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/ReplaceElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/ReplacePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/ReverseLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/RobotReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/Rough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/SeatReservation1845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/SelfDividingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/SortedVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/String678.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/StringHalves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/SubrectangleQueries1476.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/SumUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/SwappingNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/TargetArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/TruncateSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding/src/sample/flipAndInvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Aj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EcommerceTesting" beforeDir="false" afterPath="$PROJECT_DIR$/../EcommerceTesting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomation/src/test/java/AutomationTestingCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumAutomation/src/test/java/AutomationTestingCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomation/target/test-classes/Automation_Testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumAutomation/target/test-classes/Automation_Testing.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wuAU4LnAsH4Wxr0ieKZRYRglUX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Geektrust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geektrust.learning.Geektrust" />
+      <module name="Ledger.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geektrust.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Geektrust" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46ff3627-91fd-48b8-992c-6c592bcf976a" name="Default Changelist" comment="" />
+      <created>1629298114953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629298114953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
